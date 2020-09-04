@@ -34,7 +34,7 @@
     "material-ui-pickers-jalali-utils": "0.4.3",
     "moment": "2.22.2",
     "moment-jalaali": "0.8.1",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "noty": "^3.2.0-beta",
     "nprogress": "0.2.0",
     "rc-notification": "^3.1.1",
